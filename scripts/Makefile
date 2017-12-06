@@ -1,6 +1,6 @@
   
-sp500.csv: cached_List_of_SP_500_companies.html sp500csv.py
-	python sp500csv.py
+sp500.csv: cached_List_of_SP_500_companies.html build.py
+	python build.py
 
 cached_List_of_SP_500_companies.html: ../data
 	# note ampersand code in real url %26
