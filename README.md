@@ -1,8 +1,6 @@
 # S&P 500 csv
 Download a list of companies in the S&P 500 as a csv file. 
 
-
-
 ## How to use
 Just download the `data/sp500.csv` file from this repo.
 
