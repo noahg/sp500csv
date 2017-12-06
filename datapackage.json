@@ -1,10 +1,10 @@
 {
-    "name": "s-and-p-500-companies",
+    "name": "s-and-p-500",
     "title": "S&P 500 data csv scrapped from Wikipedia",
     "license": "PDDL-1.0",
     "resources": [
       {
-        "name": "sp500csv",
+        "name": "sp500",
         "path": "sp500.csv",
         "format": "csv",
         "mediatype": "text/csv",
