@@ -43,5 +43,12 @@
           ]
         }
       }
+    ], 
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+        "title": "List of S&P 500 companies"
+      }
     ]
   }
