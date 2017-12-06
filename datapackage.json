@@ -5,7 +5,7 @@
     "resources": [
       {
         "name": "sp500",
-        "path": "sp500.csv",
+        "path": "data/sp500.csv",
         "format": "csv",
         "mediatype": "text/csv",
         "schema": {
