@@ -1,7 +1,7 @@
 # S&P 500 csv
 A list of companies in the S&P 500 as a csv file. 
 
-The data is scrapped from this Wikipedia page: https://en.wikipedia.org/wiki/S%26P_500_Index 
+The data is scrapped from this Wikipedia page: https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies
 
 It appears as that the above is a frequently maintained, see recent changes list on the same page.
 
