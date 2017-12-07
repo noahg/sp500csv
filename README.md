@@ -1,6 +1,8 @@
 # S&P 500 csv
 Download a list of companies in the S&P 500 as a csv file. 
 
+[![Build Status](https://travis-ci.org/noahg/s-and-p-500-csv.svg?branch=master)](https://travis-ci.org/noahg/s-and-p-500-csv)
+
 ## How to use
 Just download the `data/sp500.csv` file from this repo.
 
