@@ -18,6 +18,12 @@ Or, build the csv yourself:
 
 3. `make`
 
+## Validation
+To validate your build against the schema as defined in `datapackage.json` run:
+
+1. `pip install -r requirements-for-validate.txt`
+2. `python validate.py`
+
 ## Source
 The data is scrapped from the Wikipedia page: https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies
 
