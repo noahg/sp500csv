@@ -1,0 +1,11 @@
+language: python
+python:
+  - 3.4
+
+install:
+  - pip install -r scripts/requirements-for-validate.txt
+
+script:
+  - cd scripts
+  - make
+  - python validate.py
