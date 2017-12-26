@@ -18,7 +18,7 @@ APD,Air Products & Chemicals Inc,Materials,Industrial Gases,"Allentown, Pennsylv
 AKAM,Akamai Technologies Inc,Information Technology,Internet Software & Services,"Cambridge, Massachusetts",0001086222
 ALK,Alaska Air Group Inc,Industrials,Airlines,"Seattle, Washington",0000766421
 ALB,Albemarle Corp,Materials,Specialty Chemicals,"Baton Rouge, Louisiana",0000915913
-ARE,Alexandria Real Estate Equities Inc,Real Estate,Office REITs,"Pasadena, California",0001035443
+ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,"Pasadena, California",0001035443
 ALXN,Alexion Pharmaceuticals,Health Care,Biotechnology,"Cheshire, Connecticut",0000899866
 ALGN,Align Technology,Health Care,Health Care Supplies,"San Jose, California",0001097149
 ALLE,Allegion,Industrials,Building Products,"Dublin, Ireland",0001579241
@@ -52,6 +52,7 @@ APA,Apache Corporation,Energy,Oil & Gas Exploration & Production,"Houston, Texas
 AIV,Apartment Investment & Management,Real Estate,Residential REITs,"Denver, Colorado",0000922864
 AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",0000320193
 AMAT,Applied Materials Inc,Information Technology,Semiconductor Equipment,"Santa Clara, California",0000006951
+APTV,Aptiv Plc,Consumer Discretionary,Auto Parts & Equipment,"Gillingham, Kent",0001521332
 ADM,Archer-Daniels-Midland Co,Consumer Staples,Agricultural Products,"Decatur, Illinois",0000007084
 ARNC,Arconic Inc,Industrials,Aerospace & Defense,"New York, New York",0000004281
 AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,"Itasca, Illinois",0000354190
@@ -141,7 +142,6 @@ DHR,Danaher Corp.,Health Care,Health Care Equipment,"Washington, D.C.",000031361
 DRI,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",0000940944
 DVA,DaVita,Health Care,Health Care Facilities,"Denver, Colorado",0000927066
 DE,Deere & Co.,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",0000315189
-DLPH,Delphi Automotive,Consumer Discretionary,Auto Parts & Equipment,"Gillingham, Kent",0001521332
 DAL,Delta Air Lines,Industrials,Airlines,"Atlanta, Georgia",0000027904
 XRAY,Dentsply Sirona,Health Care,Health Care Supplies,"York, Pennsylvania",0000818479
 DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",0001090012
@@ -158,7 +158,7 @@ DWDP,DowDuPont,Materials,Diversified Chemicals,"Midland, Michigan",0001666700
 DPS,Dr Pepper Snapple Group,Consumer Staples,Soft Drinks,"Plano, Texas",0001418135
 DTE,DTE Energy,Utilities,Multi-Utilities,"Detroit, Michigan",0000936340
 DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",0001326160
-DRE,Duke Realty Corp,Real Estate,Industrial REITs,"Indianapolis, Indiana",0000783280
+DRE,Duke Realty,Real Estate,Industrial REITs,"Indianapolis, Indiana",0000783280
 DXC,DXC Technology,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",0001688568
 ETFC,E*Trade,Financials,Investment Banking & Brokerage,"New York, New York",0001015780
 EMN,Eastman Chemical,Materials,Diversified Chemicals,"Kingsport, Tennessee",0000915389
@@ -178,7 +178,7 @@ EQIX,Equinix,Real Estate,Specialized REITs,"Redwood City, California",0001101239
 EQR,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",0000906107
 ESS,"Essex Property Trust, Inc.",Real Estate,Residential REITs,"Palo Alto, California",0000920522
 EL,Estee Lauder Cos.,Consumer Staples,Personal Products,"New York, New York",0001001250
-RE,Everest Re Group,Financials,Reinsurance,"Hamilton, Bermuda",0001095073
+RE,Everest Re,Financials,Reinsurance,"Hamilton, Bermuda",0001095073
 ES,Eversource Energy,Utilities,Multi-Utilities,"Springfield, Massachusetts",0000072741
 EXC,Exelon Corp.,Utilities,Multi-Utilities,"Chicago, Illinois",0001109357
 EXPE,Expedia Inc.,Consumer Discretionary,Internet & Direct Marketing Retail,"Bellevue, Washington",0001324424
