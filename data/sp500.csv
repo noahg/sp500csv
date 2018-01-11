@@ -66,11 +66,10 @@ AVY,Avery Dennison Corp,Materials,Paper Packaging,"Glendale, California",0000008
 BHGE,"Baker Hughes, a GE Company",Energy,Oil & Gas Equipment & Services,"Houston, Texas",0001701605
 BLL,Ball Corp,Materials,Metal & Glass Containers,"Broomfield, Colorado",0000009389
 BAC,Bank of America Corp,Financials,Diversified Banks,"Charlotte, North Carolina",0000070858
-BCR,Bard (C.R.) Inc.,Health Care,Health Care Equipment,"Murray Hill, New Jersey",0000009892
 BAX,Baxter International Inc.,Health Care,Health Care Equipment,"Deerfield, Illinois",0000010456
 BBT,BB&T Corporation,Financials,Regional Banks,"Winston-Salem, North Carolina",0000092230
 BDX,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",0000010795
-BRK.B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",0001067983
+BRK-B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",0001067983
 BBY,Best Buy Co. Inc.,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",0000764478
 BIIB,Biogen Inc.,Health Care,Biotechnology,"Weston, Massachusetts",0000875045
 BLK,BlackRock,Financials,Asset Management & Custody Banks,"New York, New York",0001364742
@@ -82,7 +81,7 @@ BSX,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachuse
 BHF,Brighthouse Financial Inc,Financials,Life & Health Insurance,"Charlotte, North Carolina",0001685040
 BMY,Bristol-Myers Squibb,Health Care,Health Care Distributors,"New York, New York",0000014272
 AVGO,Broadcom,Information Technology,Semiconductors,"San Jose, California",0001441634
-BF.B,Brown-Forman Corp.,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",0000014693
+BF-B,Brown-Forman Corp.,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",0000014693
 CHRW,C. H. Robinson Worldwide,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",0001043277
 CA,"CA, Inc.",Information Technology,Systems Software,"Islandia, New York",0000356028
 COG,Cabot Oil & Gas,Energy,Oil & Gas Exploration & Production,"Houston, Texas",0000858470
@@ -240,6 +239,7 @@ HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",
 HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",0000047217
 HUM,Humana Inc.,Health Care,Managed Health Care,"Louisville, Kentucky",0000049071
 HBAN,Huntington Bancshares,Financials,Regional Banks,"Columbus, Ohio",0000049196
+HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,"Newport News, Virginia",0001501585
 IDXX,IDEXX Laboratories,Health Care,Health Care Equipment,"Westbrook, Maine",0000874716
 INFO,IHS Markit Ltd.,Industrials,Research & Consulting Services,London,0001598014
 ITW,Illinois Tool Works,Industrials,Industrial Machinery,"Glenview, Illinois",0000049826
