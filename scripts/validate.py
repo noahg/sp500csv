@@ -1,11 +1,10 @@
 from pprint import pprint
-from goodtables import Inspector
+from goodtables import validate
 
-inspector = Inspector()
-validation_report = inspector.inspect(
+validation_report = validate(
     '../datapackage.json', preset='datapackage')
 
 pprint(validation_report)
 
-if not (validation_report['valid'] == True):
+if not validation_report['valid'] == True:
     raise RuntimeError('The data did not pass validation.')
