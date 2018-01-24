@@ -69,7 +69,7 @@ BAC,Bank of America Corp,Financials,Diversified Banks,"Charlotte, North Carolina
 BAX,Baxter International Inc.,Health Care,Health Care Equipment,"Deerfield, Illinois",0000010456
 BBT,BB&T Corporation,Financials,Regional Banks,"Winston-Salem, North Carolina",0000092230
 BDX,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",0000010795
-BRK-B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",0001067983
+BRK.B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",0001067983
 BBY,Best Buy Co. Inc.,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",0000764478
 BIIB,Biogen Inc.,Health Care,Biotechnology,"Weston, Massachusetts",0000875045
 BLK,BlackRock,Financials,Asset Management & Custody Banks,"New York, New York",0001364742
@@ -81,7 +81,7 @@ BSX,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachuse
 BHF,Brighthouse Financial Inc,Financials,Life & Health Insurance,"Charlotte, North Carolina",0001685040
 BMY,Bristol-Myers Squibb,Health Care,Health Care Distributors,"New York, New York",0000014272
 AVGO,Broadcom,Information Technology,Semiconductors,"San Jose, California",0001441634
-BF-B,Brown-Forman Corp.,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",0000014693
+BF.B,Brown-Forman Corp.,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",0000014693
 CHRW,C. H. Robinson Worldwide,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",0001043277
 CA,"CA, Inc.",Information Technology,Systems Software,"Islandia, New York",0000356028
 COG,Cabot Oil & Gas,Energy,Oil & Gas Exploration & Production,"Houston, Texas",0000858470
@@ -130,7 +130,7 @@ ED,Consolidated Edison,Utilities,Electric Utilities,"New York, New York",0001047
 STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Victor, New York",0000016918
 GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",0000024741
 COST,Costco Wholesale Corp.,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",0000909832
-COTY,"Coty, Inc",Consumer Staples,Personal Products,"New York, NY",0001024305
+COTY,"Coty, Inc",Consumer Staples,Personal Products,"New York, New York",0001024305
 CCI,Crown Castle International Corp.,Real Estate,Specialized REITs,"Houston, Texas",0001051470
 CSRA,CSRA Inc.,Information Technology,IT Consulting & Other Services,"Falls Church, Virginia",0001646383
 CSX,CSX Corp.,Industrials,Railroads,"Jacksonville, Florida",0000277948
@@ -214,7 +214,7 @@ GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnes
 GM,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",0001467858
 GPC,Genuine Parts,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",0000040987
 GILD,Gilead Sciences,Health Care,Biotechnology,"Foster City, California",0000882095
-GPN,Global Payments Inc,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",0001123360
+GPN,Global Payments Inc.,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",0001123360
 GS,Goldman Sachs Group,Financials,Investment Banking & Brokerage,"New York, New York",0000886982
 GT,Goodyear Tire & Rubber,Consumer Discretionary,Tires & Rubber,"Akron, Ohio",0000042582
 GWW,Grainger (W.W.) Inc.,Industrials,Industrial Machinery,"Lake Forest, Illinois",0000277135
@@ -457,8 +457,8 @@ TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",0
 USB,U.S. Bancorp,Financials,Diversified Banks,"Minneapolis, Minnesota",0000036104
 UDR,UDR Inc,Real Estate,Residential REITs,"Highlands Ranch, Colorado",0000074208
 ULTA,Ulta Salon Cosmetics & Fragrance Inc,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",0001403568
-UA,Under Armour,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",0001336917
 UAA,Under Armour,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",0001336917
+UA,Under Armour,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",0001336917
 UNP,Union Pacific,Industrials,Railroads,"Omaha, Nebraska",0000100885
 UAL,United Continental Holdings,Industrials,Airlines,"Chicago, Illinois",0000100517
 UNH,United Health Group Inc.,Health Care,Managed Health Care,"Minnetonka, Minnesota",0000731766
