@@ -7,7 +7,7 @@ table = soup.find("table", { "class" : "wikitable sortable" })
 
 # Fail now if we haven't found the right table
 header = table.findAll('th')
-if header[0].string != "Ticker symbol" or header[1].string != "Security":
+if header[0].text != "Ticker symbol" or header[1].text != "Security":
     raise Exception("Can't parse wikipedia's table!")
 
 # Retreive the values in the table
@@ -16,14 +16,15 @@ rows = table.findAll('tr')
 for row in rows:
     fields = row.findAll('td')
     if fields:
-        symbol = fields[0].string
+        # use .text instead of .string to handle links + text
+        symbol = fields[0].text
         # skipping second field (SEC url, redundant to CIK)
-        name = fields[1].a.string           #sometimes has multiple elements so select the first link
-        sector = fields[3].string
-        industry = fields[4].string 
+        name = fields[1].text
+        sector = fields[3].text
+        industry = fields[4].text 
         # skipping sixth field (Date first added, incomplete)
-        headquarters = fields[5].a.string   #sometimes has multiple elements so select the link
-        cik = fields[7].string
+        headquarters = fields[5].text
+        cik = fields[7].text
         records.append([symbol, name, sector, industry, headquarters, cik])
 
 # Write out CSV

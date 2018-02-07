@@ -1,6 +1,6 @@
 Symbol,Name,Sector,Industry,Headquarters,CIK
 MMM,3M Company,Industrials,Industrial Conglomerates,"St. Paul, Minnesota",0000066740
-AOS,A.O. Smith,Industrials,Building Products,"Milwaukee, Wisconsin",0000091142
+AOS,A.O. Smith Corp,Industrials,Building Products,"Milwaukee, Wisconsin",0000091142
 ABT,Abbott Laboratories,Health Care,Health Care Equipment,"North Chicago, Illinois",0000001800
 ABBV,AbbVie Inc.,Health Care,Pharmaceuticals,"North Chicago, Illinois",0001551152
 ACN,Accenture plc,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",0001467373
@@ -18,7 +18,7 @@ APD,Air Products & Chemicals Inc,Materials,Industrial Gases,"Allentown, Pennsylv
 AKAM,Akamai Technologies Inc,Information Technology,Internet Software & Services,"Cambridge, Massachusetts",0001086222
 ALK,Alaska Air Group Inc,Industrials,Airlines,"Seattle, Washington",0000766421
 ALB,Albemarle Corp,Materials,Specialty Chemicals,"Baton Rouge, Louisiana",0000915913
-ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,"Pasadena, California",0001035443
+ARE,Alexandria Real Estate Equities Inc,Real Estate,Office REITs,"Pasadena, California",0001035443
 ALXN,Alexion Pharmaceuticals,Health Care,Biotechnology,"Cheshire, Connecticut",0000899866
 ALGN,Align Technology,Health Care,Health Care Supplies,"San Jose, California",0001097149
 ALLE,Allegion,Industrials,Building Products,"Dublin, Ireland",0001579241
@@ -47,12 +47,12 @@ ADI,"Analog Devices, Inc.",Information Technology,Semiconductors,"Norwood, Massa
 ANDV,Andeavor,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",0000050104
 ANSS,ANSYS,Information Technology,Application Software,"Canonsburg, Pennsylvania",0001013462
 ANTM,Anthem Inc.,Health Care,Managed Health Care,"Indianapolis, Indiana",0001156039
-AON,Aon plc,Financials,Insurance Brokers,London,0000315293
+AON,Aon plc,Financials,Insurance Brokers,"London, United Kingdom",0000315293
 APA,Apache Corporation,Energy,Oil & Gas Exploration & Production,"Houston, Texas",0000006769
 AIV,Apartment Investment & Management,Real Estate,Residential REITs,"Denver, Colorado",0000922864
 AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",0000320193
 AMAT,Applied Materials Inc,Information Technology,Semiconductor Equipment,"Santa Clara, California",0000006951
-APTV,Aptiv Plc,Consumer Discretionary,Auto Parts & Equipment,"Gillingham, Kent",0001521332
+APTV,Aptiv Plc,Consumer Discretionary,Auto Parts & Equipment,"Gillingham, Kent, United Kingdom",0001521332
 ADM,Archer-Daniels-Midland Co,Consumer Staples,Agricultural Products,"Decatur, Illinois",0000007084
 ARNC,Arconic Inc,Industrials,Aerospace & Defense,"New York, New York",0000004281
 AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,"Itasca, Illinois",0000354190
@@ -61,7 +61,7 @@ T,AT&T Inc,Telecommunication Services,Integrated Telecommunication Services,"Dal
 ADSK,Autodesk Inc,Information Technology,Application Software,"San Rafael, California",0000769397
 ADP,Automatic Data Processing,Information Technology,Internet Software & Services,"Roseland, New Jersey",0000008670
 AZO,AutoZone Inc,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",0000866787
-AVB,"AvalonBay Communities, Inc.",Real Estate,Residential REITs,"Arlington, Virginia",0000915912
+AVB,"AvalonBay Communities, Inc.",Real Estate,Residential REITs,"Arlington, Virginia[4]",0000915912
 AVY,Avery Dennison Corp,Materials,Paper Packaging,"Glendale, California",0000008818
 BHGE,"Baker Hughes, a GE Company",Energy,Oil & Gas Equipment & Services,"Houston, Texas",0001701605
 BLL,Ball Corp,Materials,Metal & Glass Containers,"Broomfield, Colorado",0000009389
@@ -77,7 +77,7 @@ HRB,Block H&R,Financials,Consumer Finance,"Kansas City, Missouri",0000012659
 BA,Boeing Company,Industrials,Aerospace & Defense,"Chicago, Illinois",0000012927
 BWA,BorgWarner,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",0000908255
 BXP,Boston Properties,Real Estate,Office REITs,"Boston, Massachusetts",0001037540
-BSX,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachusetts",0000885725
+BSX,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachusetts[5]",0000885725
 BHF,Brighthouse Financial Inc,Financials,Life & Health Insurance,"Charlotte, North Carolina",0001685040
 BMY,Bristol-Myers Squibb,Health Care,Health Care Distributors,"New York, New York",0000014272
 AVGO,Broadcom,Information Technology,Semiconductors,"San Jose, California",0001441634
@@ -88,7 +88,7 @@ COG,Cabot Oil & Gas,Energy,Oil & Gas Exploration & Production,"Houston, Texas",0
 CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",0000813672
 CPB,Campbell Soup,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",0000016732
 COF,Capital One Financial,Financials,Consumer Finance,"Tysons Corner, Virginia",0000927628
-CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",0000721371
+CAH,Cardinal Health Inc.,Health Care,Health Care Distributors,"Dublin, Ohio",0000721371
 KMX,Carmax Inc,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",0001170010
 CCL,Carnival Corp.,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",0000815097
 CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Trucks,"Peoria, Illinois",0000018230
@@ -118,7 +118,7 @@ CFG,Citizens Financial Group,Financials,Regional Banks,"Providence, Rhode Island
 CTXS,Citrix Systems,Information Technology,Internet Software & Services,"Fort Lauderdale, Florida",0000877890
 CME,CME Group Inc.,Financials,Financial Exchanges & Data,"Chicago, Illinois",0001156375
 CMS,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",0000811156
-KO,Coca-Cola Company,Consumer Staples,Soft Drinks,"Atlanta, Georgia",0000021344
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks,"Atlanta, Georgia",0000021344
 CTSH,Cognizant Technology Solutions,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",0001058290
 CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York, New York",0000021665
 CMCSA,Comcast Corp.,Consumer Discretionary,Cable & Satellite,"Philadelphia, Pennsylvania",0001166691
@@ -139,15 +139,15 @@ CVS,CVS Health,Consumer Staples,Drug Retail,"Woonsocket, Rhode Island",000006480
 DHI,D. R. Horton,Consumer Discretionary,Homebuilding,"Fort Worth, Texas",0000882184
 DHR,Danaher Corp.,Health Care,Health Care Equipment,"Washington, D.C.",0000313616
 DRI,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",0000940944
-DVA,DaVita,Health Care,Health Care Facilities,"Denver, Colorado",0000927066
+DVA,DaVita Inc.,Health Care,Health Care Facilities,"Denver, Colorado",0000927066
 DE,Deere & Co.,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",0000315189
-DAL,Delta Air Lines,Industrials,Airlines,"Atlanta, Georgia",0000027904
+DAL,Delta Air Lines Inc.,Industrials,Airlines,"Atlanta, Georgia",0000027904
 XRAY,Dentsply Sirona,Health Care,Health Care Supplies,"York, Pennsylvania",0000818479
-DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",0001090012
-DLR,Digital Realty,Real Estate,Specialized REITs,"San Francisco, California",0001297996
+DVN,Devon Energy Corp.,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",0001090012
+DLR,Digital Realty Trust Inc,Real Estate,Specialized REITs,"San Francisco, California",0001297996
 DFS,Discover Financial Services,Financials,Consumer Finance,"Riverwoods, Illinois",0001393612
-DISCA,Discovery Communications,Consumer Discretionary,Cable & Satellite,"Silver Spring, Maryland",0001437107
-DISCK,Discovery Communications,Consumer Discretionary,Cable & Satellite,"Silver Spring, Maryland",0001437107
+DISCA,Discovery Communications-A,Consumer Discretionary,Cable & Satellite,"Silver Spring, Maryland",0001437107
+DISCK,Discovery Communications-C,Consumer Discretionary,Cable & Satellite,"Silver Spring, Maryland",0001437107
 DISH,Dish Network,Consumer Discretionary,Cable & Satellite,"Meridian, Colorado",0001001082
 DG,Dollar General,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",0000029534
 DLTR,Dollar Tree,Consumer Discretionary,General Merchandise Stores,"Chesapeake, Virginia",0000935703
@@ -155,15 +155,15 @@ D,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",0000715957
 DOV,Dover Corp.,Industrials,Industrial Machinery,"Downers Grove, Illinois",0000029905
 DWDP,DowDuPont,Materials,Diversified Chemicals,"Midland, Michigan",0001666700
 DPS,Dr Pepper Snapple Group,Consumer Staples,Soft Drinks,"Plano, Texas",0001418135
-DTE,DTE Energy,Utilities,Multi-Utilities,"Detroit, Michigan",0000936340
+DTE,DTE Energy Co.,Utilities,Multi-Utilities,"Detroit, Michigan",0000936340
 DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",0001326160
-DRE,Duke Realty,Real Estate,Industrial REITs,"Indianapolis, Indiana",0000783280
+DRE,Duke Realty Corp,Real Estate,Industrial REITs,"Indianapolis, Indiana",0000783280
 DXC,DXC Technology,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",0001688568
 ETFC,E*Trade,Financials,Investment Banking & Brokerage,"New York, New York",0001015780
 EMN,Eastman Chemical,Materials,Diversified Chemicals,"Kingsport, Tennessee",0000915389
 ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",0001551182
-EBAY,eBay,Information Technology,Internet Software & Services,"San Jose, California",0001065088
-ECL,Ecolab,Materials,Specialty Chemicals,"St. Paul, Minnesota",0000031462
+EBAY,eBay Inc.,Information Technology,Internet Software & Services,"San Jose, California",0001065088
+ECL,Ecolab Inc.,Materials,Specialty Chemicals,"St. Paul, Minnesota",0000031462
 EIX,Edison Int'l,Utilities,Electric Utilities,"Rosemead, California",0000827052
 EW,Edwards Lifesciences,Health Care,Health Care Equipment,"Irvine, California",0001099800
 EA,Electronic Arts,Information Technology,Home Entertainment Software,"Redwood City, California",0000712515
@@ -177,7 +177,7 @@ EQIX,Equinix,Real Estate,Specialized REITs,"Redwood City, California",0001101239
 EQR,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",0000906107
 ESS,"Essex Property Trust, Inc.",Real Estate,Residential REITs,"Palo Alto, California",0000920522
 EL,Estee Lauder Cos.,Consumer Staples,Personal Products,"New York, New York",0001001250
-RE,Everest Re,Financials,Reinsurance,"Hamilton, Bermuda",0001095073
+RE,Everest Re Group Ltd.,Financials,Reinsurance,"Hamilton, Bermuda",0001095073
 ES,Eversource Energy,Utilities,Multi-Utilities,"Springfield, Massachusetts",0000072741
 EXC,Exelon Corp.,Utilities,Multi-Utilities,"Chicago, Illinois",0001109357
 EXPE,Expedia Inc.,Consumer Discretionary,Internet & Direct Marketing Retail,"Bellevue, Washington",0001324424
@@ -226,11 +226,11 @@ HIG,Hartford Financial Svc.Gp.,Financials,Property & Casualty Insurance,"Hartfor
 HAS,Hasbro Inc.,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",0000046080
 HCA,HCA Holdings,Health Care,Health Care Facilities,"Nashville, Tennessee",0000860730
 HCP,HCP Inc.,Real Estate,Health Care REITs,"Long Beach, California",0000765880
-HP,Helmerich & Payne,Energy,Oil & Gas Drilling,"Tulsa, Oklahoma",0000046765
+HP,Helmerich & Payne,Energy,Oil & Gas Drilling,"Tulsa, Oklahoma[6]",0000046765
 HSIC,Henry Schein,Health Care,Health Care Distributors,"Melville, New York",0001000228
 HES,Hess Corporation,Energy,Integrated Oil & Gas,"New York, New York",0000004447
 HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",0001645590
-HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",0001585689
+HLT,Hilton Worldwide Holdings Inc,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",0001585689
 HOLX,Hologic,Health Care,Health Care Equipment,"Marlborough, Massachusetts",0000859737
 HD,Home Depot,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",0000354950
 HON,Honeywell Int'l Inc.,Industrials,Industrial Conglomerates,"Morristown, New Jersey",0000773840
@@ -241,7 +241,7 @@ HUM,Humana Inc.,Health Care,Managed Health Care,"Louisville, Kentucky",000004907
 HBAN,Huntington Bancshares,Financials,Regional Banks,"Columbus, Ohio",0000049196
 HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,"Newport News, Virginia",0001501585
 IDXX,IDEXX Laboratories,Health Care,Health Care Equipment,"Westbrook, Maine",0000874716
-INFO,IHS Markit Ltd.,Industrials,Research & Consulting Services,London,0001598014
+INFO,IHS Markit Ltd.,Industrials,Research & Consulting Services,"London, United Kingdom",0001598014
 ITW,Illinois Tool Works,Industrials,Industrial Machinery,"Glenview, Illinois",0000049826
 ILMN,Illumina Inc,Health Care,Life Sciences Tools & Services,"San Diego, California",0001110803
 INCY,Incyte,Health Care,Biotechnology,"Wilmington, Delaware",0000879169
@@ -252,10 +252,10 @@ IBM,International Business Machines,Information Technology,IT Consulting & Other
 IP,International Paper,Materials,Paper Packaging,"Memphis, Tennessee",0000051434
 IPG,Interpublic Group,Consumer Discretionary,Advertising,"New York, New York",0000051644
 IFF,Intl Flavors & Fragrances,Materials,Specialty Chemicals,"New York, New York",0000051253
-INTU,Intuit,Information Technology,Internet Software & Services,"Mountain View, California",0000896878
+INTU,Intuit Inc.,Information Technology,Internet Software & Services,"Mountain View, California",0000896878
 ISRG,Intuitive Surgical Inc.,Health Care,Health Care Equipment,"Sunnyvale, California",0001035267
 IVZ,Invesco Ltd.,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",0000914208
-IQV,IQVIA,Health Care,Life Sciences Tools & Service,"Durham, North Carolina",0001478242
+IQV,IQVIA Holdings Inc.,Health Care,Life Sciences Tools & Service,"Durham, North Carolina",0001478242
 IRM,Iron Mountain Incorporated,Real Estate,Specialized REITs,"Boston, Massachusetts",0001020569
 JBHT,J. B. Hunt Transport Services,Industrials,Trucking,"Lowell, Arkansas",0000728535
 JEC,Jacobs Engineering Group,Industrials,Construction & Engineering,"Pasadena, California",0000052988
@@ -271,8 +271,8 @@ KMB,Kimberly-Clark,Consumer Staples,Household Products,"Irving, Texas",000005578
 KIM,Kimco Realty,Real Estate,Retail REITs,"New Hyde Park, New York",0000879101
 KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",0001506307
 KLAC,KLA-Tencor Corp.,Information Technology,Semiconductor Equipment,"Milpitas, California",0000319201
-KSS,Kohl's,Consumer Discretionary,General Merchandise Stores,"Menomonee Falls, Wisconsin",0000885639
-KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,"Pittsburgh, Pennsylvania",0001637459
+KSS,Kohl's Corp.,Consumer Discretionary,General Merchandise Stores,"Menomonee Falls, Wisconsin",0000885639
+KHC,Kraft Heinz Co,Consumer Staples,Packaged Foods & Meats,"Pittsburgh, Pennsylvania",0001637459
 KR,Kroger Co.,Consumer Staples,Food Retail,"Cincinnati, Ohio",0000056873
 LB,L Brands Inc.,Consumer Discretionary,Apparel Retail,"Columbus, Ohio",0000701985
 LLL,L-3 Communications Holdings,Industrials,Aerospace & Defense,"New York, New York",0001056239
@@ -302,7 +302,7 @@ MAT,Mattel Inc.,Consumer Discretionary,Leisure Products,"El Segundo, California"
 MKC,McCormick & Co.,Consumer Staples,Packaged Foods & Meats,"Sparks, Maryland",0000063754
 MCD,McDonald's Corp.,Consumer Discretionary,Restaurants,"Oak Brook, Illinois",0000063908
 MCK,McKesson Corp.,Health Care,Health Care Distributors,"San Francisco, California",0000927653
-MDT,Medtronic plc,Health Care,Health Care Equipment,Dublin,0000064670
+MDT,Medtronic plc,Health Care,Health Care Equipment,"Dublin, Ireland",0000064670
 MRK,Merck & Co.,Health Care,Pharmaceuticals,"Whitehouse Station, New Jersey",0000310158
 MET,MetLife Inc.,Financials,Life & Health Insurance,"New York, New York",0001099219
 MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",0001037646
@@ -320,7 +320,7 @@ MNST,Monster Beverage,Consumer Staples,Soft Drinks,"Corona, California",00008657
 MCO,Moody's Corp,Financials,Financial Exchanges & Data,"New York, New York",0001059556
 MS,Morgan Stanley,Financials,Investment Banking & Brokerage,"New York, New York",0000895421
 MSI,Motorola Solutions Inc.,Information Technology,Communications Equipment,"Schaumburg, Illinois",0000068505
-MYL,Mylan N.V.,Health Care,Pharmaceuticals,Amsterdam,0000069499
+MYL,Mylan N.V.,Health Care,Pharmaceuticals,"Amsterdam, Netherlands",0000069499
 NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,"New York, New York",0001120193
 NOV,National Oilwell Varco Inc.,Energy,Oil & Gas Equipment & Services,"Houston, Texas",0001021860
 NAVI,Navient,Financials,Consumer Finance,"Wilmington, Delaware",0001593538
@@ -405,7 +405,7 @@ SPGI,"S&P Global, Inc.",Financials,Financial Exchanges & Data,"New York, New Yor
 CRM,Salesforce.com,Information Technology,Internet Software & Services,"San Francisco, California",0001108524
 SBAC,SBA Communications,Real Estate,Specialized REITs,"Boca Raton, Florida",0001034054
 SCG,SCANA Corp,Utilities,Multi-Utilities,"Cayce, South Carolina",0000754737
-SLB,Schlumberger Ltd.,Energy,Oil & Gas Equipment & Services,Curaçao,0000087347
+SLB,Schlumberger Ltd.,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",0000087347
 SNI,Scripps Networks Interactive Inc.,Consumer Discretionary,Cable & Satellite,"Cincinnati, Ohio",0001430602
 STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",0001137789
 SEE,Sealed Air,Materials,Paper Packaging,"Elmwood Park, New Jersey",0001012100
@@ -432,7 +432,7 @@ TROW,T. Rowe Price Group,Financials,Asset Management & Custody Banks,"Baltimore,
 TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",0001116132
 TGT,Target Corp.,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",0000027419
 TEL,TE Connectivity Ltd.,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",0001385157
-FTI,TechnipFMC,Energy,Oil & Gas Equipment & Services,London,0001681459
+FTI,TechnipFMC,Energy,Oil & Gas Equipment & Services,"London, United Kingdom",0001681459
 TXN,Texas Instruments,Information Technology,Semiconductors,"Dallas, Texas",0000097476
 TXT,Textron Inc.,Industrials,Aerospace & Defense,"Providence, Rhode Island",0000217346
 BK,The Bank of New York Mellon Corp.,Financials,Asset Management & Custody Banks,"New York, New York",0001390777
@@ -457,8 +457,8 @@ TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",0
 USB,U.S. Bancorp,Financials,Diversified Banks,"Minneapolis, Minnesota",0000036104
 UDR,UDR Inc,Real Estate,Residential REITs,"Highlands Ranch, Colorado",0000074208
 ULTA,Ulta Salon Cosmetics & Fragrance Inc,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",0001403568
-UAA,Under Armour,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",0001336917
-UA,Under Armour,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",0001336917
+UAA,Under Armour Class A,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",0001336917
+UA,Under Armour Class C,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",0001336917
 UNP,Union Pacific,Industrials,Railroads,"Omaha, Nebraska",0000100885
 UAL,United Continental Holdings,Industrials,Airlines,"Chicago, Illinois",0000100517
 UNH,United Health Group Inc.,Health Care,Managed Health Care,"Minnetonka, Minnesota",0000731766
@@ -494,7 +494,7 @@ WHR,Whirlpool Corp.,Consumer Discretionary,Household Appliances,"Benton Harbor, 
 WMB,Williams Cos.,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",0000107263
 WLTW,Willis Towers Watson,Financials,Insurance Brokers,"London, United Kingdom",0001140536
 WYN,Wyndham Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Parsippany, New Jersey",0001361658
-WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",0001174922
+WYNN,Wynn Resorts Ltd,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",0001174922
 XEL,Xcel Energy Inc,Utilities,Multi-Utilities,"Minneapolis, Minnesota",0000072903
 XRX,Xerox Corp.,Information Technology,"Technology Hardware, Storage & Peripherals","Norwalk, Connecticut",0000108772
 XLNX,Xilinx Inc,Information Technology,Semiconductors,"San Jose, California",0000743988
