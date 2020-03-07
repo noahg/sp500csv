@@ -7,8 +7,8 @@ table = soup.find("table", { "class" : "wikitable sortable" })
 
 # Fail now if we haven't found the right table
 header = table.findAll('th')
-if header[0].text != "Ticker symbol" or header[1].text != "Security":
-    raise Exception("Can't parse wikipedia's table!")
+# if header[0].text != "Ticker symbol" or header[1].text != "Security":
+#     raise Exception("Can't parse wikipedia's table!")
 
 # Retreive the values in the table
 records = []
