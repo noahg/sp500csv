@@ -19,7 +19,7 @@ linear-tsv==1.0.0
 openpyxl==2.4.9
 pprint==0.1
 python-dateutil==2.6.1
-requests==2.18.4
+requests==2.20.0
 rfc3986==1.1.0
 simpleeval==0.9.5
 six==1.11.0
